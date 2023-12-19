@@ -11,7 +11,7 @@ public class Main {
         int yearCurrent = scanner.nextInt();
 
 
-        System.out.println("Ngày tháng năm tiếp theo :");
+
 
 
     }
